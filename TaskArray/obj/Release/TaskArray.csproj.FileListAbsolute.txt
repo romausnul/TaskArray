@@ -1,0 +1,20 @@
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\bin\Release\TaskArray.exe.config
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\bin\Release\TaskArray.exe
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\bin\Release\TaskArray.pdb
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.frmEntry.resources
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.Properties.Resources.resources
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.csproj.GenerateResource.cache
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.csproj.CoreCompileInputs.cache
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.exe
+C:\develop\Технология программирования\468-Обучающие примеры в C#\Проект\TaskArray\TaskArray\obj\Release\TaskArray.pdb
+D:\TaskArray\TaskArray\bin\Release\TaskArray.exe.config
+D:\TaskArray\TaskArray\bin\Release\TaskArray.exe
+D:\TaskArray\TaskArray\bin\Release\TaskArray.pdb
+D:\TaskArray\TaskArray\obj\Release\TaskArray.csproj.AssemblyReference.cache
+D:\TaskArray\TaskArray\obj\Release\TaskArray.csproj.SuggestedBindingRedirects.cache
+D:\TaskArray\TaskArray\obj\Release\TaskArray.frmEntry.resources
+D:\TaskArray\TaskArray\obj\Release\TaskArray.Properties.Resources.resources
+D:\TaskArray\TaskArray\obj\Release\TaskArray.csproj.GenerateResource.cache
+D:\TaskArray\TaskArray\obj\Release\TaskArray.csproj.CoreCompileInputs.cache
+D:\TaskArray\TaskArray\obj\Release\TaskArray.exe
+D:\TaskArray\TaskArray\obj\Release\TaskArray.pdb

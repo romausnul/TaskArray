@@ -1,0 +1,20 @@
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.exe.config
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.exe
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.pdb
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csprojAssemblyReference.cache
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.frmEntry.resources
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.Properties.Resources.resources
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csproj.GenerateResource.cache
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csproj.CoreCompileInputs.cache
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.exe
+D:\Разработки\Прикладное\C#\Примеры на C#\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.pdb
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.exe.config
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.exe
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\bin\Debug\TaskArray.pdb
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csprojAssemblyReference.cache
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.frmEntry.resources
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.Properties.Resources.resources
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csproj.GenerateResource.cache
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.csproj.CoreCompileInputs.cache
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.exe
+C:\develop\Технология программирования\468-Обучающие примеры в C#\working\Одномерные массивы\TaskArray\TaskArray\obj\Debug\TaskArray.pdb
